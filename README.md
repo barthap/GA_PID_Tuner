@@ -4,9 +4,9 @@ Genetic algorithm that optimizes PID values to minimize ISE.
 It can use either Matlab/Simulink or built-in Python model
 for simulating plant.
 
-![Screen 1](./Screenshots/scr1.png | height=300)
-![Screen 2](./Screenshots/scr2.png | height=300)
-![Screen 3](./Screenshots/scr3.png | height=300)
+![Screen 1](./Screenshots/scr1.png)
+![Screen 2](./Screenshots/scr2.png )
+![Screen 3](./Screenshots/scr3.png)
 
 
 ### Used dependencies
